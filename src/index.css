@@ -99,4 +99,20 @@ All colors MUST be HSL.
     -webkit-text-fill-color: transparent;
     background-clip: text;
   }
+
+  .btn-pulse-click:active {
+    animation: pulse-click 0.3s ease-out;
+  }
+
+  @keyframes pulse-click {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(0.95);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
 }

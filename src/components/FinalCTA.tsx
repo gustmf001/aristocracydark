@@ -39,13 +39,15 @@ const FinalCTA = () => {
               </p>
             </div>
 
-            <Button 
-              size="lg" 
-              className="text-xl px-12 py-8 bg-primary hover:bg-primary/90 glow-primary animate-glow-pulse font-bold group"
-            >
-              Entrar no Aristocracy Dark Agora
-              <ArrowRight className="ml-2 w-6 h-6 group-hover:translate-x-1 transition-transform" />
-            </Button>
+            <a href="https://pay.kirvano.com/0ab17b88-a3f9-4894-8611-f5f015d20efd" target="_blank" rel="noopener noreferrer">
+              <Button 
+                size="lg" 
+                className="text-xl px-12 py-8 bg-primary hover:bg-primary/90 glow-primary animate-glow-pulse font-bold group btn-pulse-click"
+              >
+                Entrar no Aristocracy Dark Agora
+                <ArrowRight className="ml-2 w-6 h-6 group-hover:translate-x-1 transition-transform" />
+              </Button>
+            </a>
 
             <div className="flex items-center justify-center gap-6 text-sm text-muted-foreground">
               <div className="flex items-center gap-2">
