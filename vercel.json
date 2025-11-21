@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/sunize",
+      "destination": "https://pay.sunize.com.br/pNqpvixn",
+      "permanent": false
+    },
+    {
+      "source": "/kirvano",
+      "destination": "https://pay.kirvano.com/b53abcb1-4e23-40df-830e-493c9f4f18c4",
+      "permanent": false
+    }
+  ]
+}
