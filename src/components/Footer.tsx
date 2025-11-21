@@ -10,7 +10,7 @@ const Footer = () => {
 
           {/* Legal notice */}
           <p className="text-sm text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-            Aristocracy Dark © 2025 — Conteúdo digital e mentoria. Os resultados individuais podem variar e dependem do esforço, dedicação e implementação adequada das estratégias ensinadas.
+            Aristocracy Dark © 2025 — Conteúdo digital e mentoria.
           </p>
 
           {/* Additional links */}

@@ -29,10 +29,10 @@ const FinalCTASunize = () => {
           <div className="pt-4 space-y-6">
             <div className="space-y-2">
               <p className="text-sm text-muted-foreground uppercase tracking-wider">
-                Investimento único
+                Apenas para as 10 primeiras vagas
               </p>
               <p className="text-5xl md:text-6xl font-bold gradient-text">
-                R$ 297
+                R$ 47,90
               </p>
               <p className="text-sm text-muted-foreground">
                 Acesso vitalício + todos os bônus incluídos
