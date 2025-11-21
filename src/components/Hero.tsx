@@ -25,7 +25,7 @@ const Hero = () => {
 
         {/* CTA Buttons */}
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-8">
-          <a href="https://pay.kirvano.com/0ab17b88-a3f9-4894-8611-f5f015d20efd" target="_blank" rel="noopener noreferrer">
+          <a href="https://pay.kirvano.com/b53abcb1-4e23-40df-830e-493c9f4f18c4" target="_blank" rel="noopener noreferrer">
             <Button 
               size="lg" 
               className="text-lg px-8 py-6 bg-primary hover:bg-primary/90 glow-primary animate-glow-pulse font-semibold btn-pulse-click"
@@ -33,7 +33,7 @@ const Hero = () => {
               Entrar no Clube
             </Button>
           </a>
-          <a href="https://pay.kirvano.com/0ab17b88-a3f9-4894-8611-f5f015d20efd" target="_blank" rel="noopener noreferrer">
+          <a href="https://pay.kirvano.com/b53abcb1-4e23-40df-830e-493c9f4f18c4" target="_blank" rel="noopener noreferrer">
             <Button 
               size="lg" 
               variant="outline"

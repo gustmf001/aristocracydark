@@ -39,7 +39,7 @@ const FinalCTA = () => {
               </p>
             </div>
 
-            <a href="https://pay.kirvano.com/0ab17b88-a3f9-4894-8611-f5f015d20efd" target="_blank" rel="noopener noreferrer">
+            <a href="https://pay.kirvano.com/b53abcb1-4e23-40df-830e-493c9f4f18c4" target="_blank" rel="noopener noreferrer">
               <Button 
                 size="lg" 
                 className="text-xl px-12 py-8 bg-primary hover:bg-primary/90 glow-primary animate-glow-pulse font-bold group btn-pulse-click"
